@@ -1,0 +1,12 @@
+This program is to do ocr of the given input as pdf or an image one can upload there
+file and define the text in simple form as OCR of that input file.
+The model used in order to make this model us Tesseract OCR and Paddle OCR .
+The use of streamlit and fast api for input and processing
+
+.
+├── .env
+├── main.py
+├── config.py
+├── schemas.py
+├── ocr_service.py
+└── requirements.txt
