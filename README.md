@@ -20,3 +20,12 @@ It’s designed for easy deployment of OCR capabilities — ideal for integratin
 
 ## 🧩 Project Structure
 
+- config.py # Configuration and settings
+
+- main.py # Entry point (server API and handler)
+
+- ocr.py # Core OCR logic
+
+- schema.py # API request/response schemas
+
+- requirement # Python dependency list
